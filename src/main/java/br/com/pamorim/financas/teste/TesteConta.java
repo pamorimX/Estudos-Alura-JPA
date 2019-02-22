@@ -4,7 +4,7 @@ import javax.persistence.EntityManager;
 import br.com.pamorim.financas.modelo.Conta;
 import br.com.pamorim.financas.util.JPAUtil;
 
-public class TestaConta {
+public class TesteConta {
 
 	public static void main(String args[]) {
 
