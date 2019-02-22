@@ -8,7 +8,7 @@
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
 		<!-- Aqui são listadas todas as entidades -->
-		<class>br.com.pamorim.financas.modelo.Conta</class>
+		<class>br.com.pamorim.financas.modelo.Conta</class> 
 		<class>br.com.pamorim.financas.modelo.Movimentacao</class>
 
 		<properties>
